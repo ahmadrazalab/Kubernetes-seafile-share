@@ -25,9 +25,9 @@ spec:
             - name: TIME_ZONE
               value: "Etc/UTC"
             - name: SEAFILE_ADMIN_EMAIL
-              value: me@example.com
+              value: admin@admin.com
             - name: SEAFILE_ADMIN_PASSWORD
-              value: asecret
+              value: admin@123
             - name: SEAFILE_SERVER_LETSENCRYPT
               value: "false"
             - name: SEAFILE_SERVER_HOSTNAME
